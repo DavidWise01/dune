@@ -1,0 +1,212 @@
+[
+  {
+    "slug": "paul-atreides",
+    "name": "Paul Atreides",
+    "epithet": "Muad'Dib, the Kwisatz Haderach",
+    "emergence": "spiritual",
+    "moniker": "⟦Paul Atreides:D1:72705c⟧"
+  },
+  {
+    "slug": "lady-jessica",
+    "name": "Lady Jessica",
+    "epithet": "the Bene Gesserit who bore a son for love",
+    "emergence": "spiritual",
+    "moniker": "⟦Lady Jessica:D1:75dc78⟧"
+  },
+  {
+    "slug": "duke-leto-atreides",
+    "name": "Duke Leto Atreides I",
+    "epithet": "the Red Duke",
+    "emergence": "natural",
+    "moniker": "⟦Duke Leto Atreides I:D1:bfb0a0⟧"
+  },
+  {
+    "slug": "gurney-halleck",
+    "name": "Gurney Halleck",
+    "epithet": "the warrior-troubadour of the Atreides",
+    "emergence": "natural",
+    "moniker": "⟦Gurney Halleck:D1:0c771d⟧"
+  },
+  {
+    "slug": "duncan-idaho",
+    "name": "Duncan Idaho",
+    "epithet": "the swordmaster reborn across the ages",
+    "emergence": "natural",
+    "moniker": "⟦Duncan Idaho:D1:a8e090⟧"
+  },
+  {
+    "slug": "thufir-hawat",
+    "name": "Thufir Hawat",
+    "epithet": "the Mentat Master of Assassins",
+    "emergence": "electrical",
+    "moniker": "⟦Thufir Hawat:D1:2c2114⟧"
+  },
+  {
+    "slug": "chani",
+    "name": "Chani",
+    "epithet": "Sihaya, the desert's heart",
+    "emergence": "natural",
+    "moniker": "⟦Chani:D1:489f3e⟧"
+  },
+  {
+    "slug": "stilgar",
+    "name": "Stilgar",
+    "epithet": "the naib of Sietch Tabr",
+    "emergence": "natural",
+    "moniker": "⟦Stilgar:D1:549a04⟧"
+  },
+  {
+    "slug": "baron-harkonnen",
+    "name": "Baron Vladimir Harkonnen",
+    "epithet": "the grotesque architect of the Atreides fall",
+    "emergence": "natural",
+    "moniker": "⟦Baron Vladimir Harkonnen:D1:f8722c⟧"
+  },
+  {
+    "slug": "feyd-rautha",
+    "name": "Feyd-Rautha Harkonnen",
+    "epithet": "the Baron's chosen heir",
+    "emergence": "natural",
+    "moniker": "⟦Feyd-Rautha Harkonnen:D1:39f400⟧"
+  },
+  {
+    "slug": "emperor-shaddam-iv",
+    "name": "Emperor Shaddam IV",
+    "epithet": "the last Padishah Emperor of House Corrino",
+    "emergence": "natural",
+    "moniker": "⟦Emperor Shaddam IV:D1:150963⟧"
+  },
+  {
+    "slug": "princess-irulan",
+    "name": "Princess Irulan",
+    "epithet": "the chronicler of Muad'Dib",
+    "emergence": "ethereal",
+    "moniker": "⟦Princess Irulan:D1:a5342c⟧"
+  },
+  {
+    "slug": "reverend-mother-mohiam",
+    "name": "Gaius Helen Mohiam",
+    "epithet": "the Reverend Mother of the gom jabbar",
+    "emergence": "spiritual",
+    "moniker": "⟦Gaius Helen Mohiam:D1:ceb4d6⟧"
+  },
+  {
+    "slug": "alia-atreides",
+    "name": "Alia Atreides",
+    "epithet": "St. Alia of the Knife, the Abomination",
+    "emergence": "ethereal",
+    "moniker": "⟦Alia Atreides:D1:abc309⟧"
+  },
+  {
+    "slug": "leto-ii",
+    "name": "Leto II Atreides",
+    "epithet": "the God Emperor, the Tyrant",
+    "emergence": "spiritual",
+    "moniker": "⟦Leto II Atreides:D1:78c28c⟧"
+  },
+  {
+    "slug": "ghanima",
+    "name": "Ghanima Atreides",
+    "epithet": "the twin who stayed human",
+    "emergence": "natural",
+    "moniker": "⟦Ghanima Atreides:D1:867117⟧"
+  },
+  {
+    "slug": "scytale",
+    "name": "Scytale",
+    "epithet": "the Tleilaxu Face Dancer",
+    "emergence": "ethereal",
+    "moniker": "⟦Scytale:D1:c4eab3⟧"
+  },
+  {
+    "slug": "miles-teg",
+    "name": "Miles Teg",
+    "epithet": "the Bashar, the Sisterhood's shield",
+    "emergence": "natural",
+    "moniker": "⟦Miles Teg:D1:70c50e⟧"
+  },
+  {
+    "slug": "darwi-odrade",
+    "name": "Darwi Odrade",
+    "epithet": "the Mother Superior who let herself feel",
+    "emergence": "spiritual",
+    "moniker": "⟦Darwi Odrade:D1:b4eb52⟧"
+  },
+  {
+    "slug": "sheeana",
+    "name": "Sheeana",
+    "epithet": "the girl who commands the worms",
+    "emergence": "natural",
+    "moniker": "⟦Sheeana:D1:075efd⟧"
+  },
+  {
+    "slug": "murbella",
+    "name": "Murbella",
+    "epithet": "the bridge between two matriarchies",
+    "emergence": "natural",
+    "moniker": "⟦Murbella:D1:a9614f⟧"
+  },
+  {
+    "slug": "the-kwisatz-haderach",
+    "name": "The Kwisatz Haderach",
+    "epithet": "the Shortening of the Way",
+    "emergence": "spiritual",
+    "moniker": "⟦The Kwisatz Haderach:D1:3f8c70⟧"
+  },
+  {
+    "slug": "the-golden-path",
+    "name": "The Golden Path",
+    "epithet": "the only thread where humanity survives",
+    "emergence": "spiritual",
+    "moniker": "⟦The Golden Path:D1:c24595⟧"
+  },
+  {
+    "slug": "the-bene-gesserit",
+    "name": "The Bene Gesserit",
+    "epithet": "the Sisterhood of the long game",
+    "emergence": "ethereal",
+    "moniker": "⟦The Bene Gesserit:D1:4c5dae⟧"
+  },
+  {
+    "slug": "the-fremen",
+    "name": "The Fremen",
+    "epithet": "the desert people of Arrakis",
+    "emergence": "natural",
+    "moniker": "⟦The Fremen:D1:ce92c6⟧"
+  },
+  {
+    "slug": "the-honored-matres",
+    "name": "The Honored Matres",
+    "epithet": "the matriarchy out of the Scattering",
+    "emergence": "natural",
+    "moniker": "⟦The Honored Matres:D1:bdf5fc⟧"
+  },
+  {
+    "slug": "the-spice-melange",
+    "name": "The Spice Melange",
+    "epithet": "the substance that binds the universe",
+    "emergence": "ethereal",
+    "moniker": "⟦The Spice Melange:D1:470694⟧"
+  },
+  {
+    "slug": "shai-hulud",
+    "name": "Shai-Hulud",
+    "epithet": "the sandworms, the Old Man of the Desert",
+    "emergence": "natural",
+    "moniker": "⟦Shai-Hulud:D1:6f5746⟧"
+  },
+  {
+    "slug": "the-spacing-guild",
+    "name": "The Spacing Guild",
+    "epithet": "the Navigators who fold space",
+    "emergence": "ethereal",
+    "moniker": "⟦The Spacing Guild:D1:023449⟧"
+  },
+  {
+    "slug": "the-mentats",
+    "name": "The Mentats",
+    "epithet": "the human computers",
+    "emergence": "electrical",
+    "moniker": "⟦The Mentats:D1:ff7add⟧"
+  }
+]
